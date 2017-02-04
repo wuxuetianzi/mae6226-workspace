@@ -1,0 +1,15 @@
+ {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import math\n",
+    "import numpy\n",
+    "from matplotlib import pyplot\n",
+    "# embed figures into the notebook\n",
+    "%matplotlib inline"
+   ]
+  },
