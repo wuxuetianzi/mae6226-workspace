@@ -1,0 +1,6 @@
+In assignment1:
+1)why the streamline is directly going through the shape？
+2)The maximumm pressure is right ahead the shape, but there is a little gap between the point and surface of shape.If we change number of N, the gip is decreasing.
+3)According to the plot, the pressure under the airfoil is pretty same as the pressure above the airfoil, so it can not generate lift.
+4)the value of maximum pressure is 0.47
+
