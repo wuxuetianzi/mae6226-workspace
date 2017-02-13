@@ -4,3 +4,5 @@ In assignment1:
 3)According to the plot, the pressure under the airfoil is pretty same as the pressure above the airfoil, so it can not generate lift.
 4)the value of maximum pressure is 0.47
 
+In lesson5:
+1)How to create a infinite array and keep the number in same difference?
